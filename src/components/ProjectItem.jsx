@@ -18,7 +18,7 @@ const ProjectItem = ({ title, description, competence, imageUrl, projectUrl}) =>
           <h4>Description : </h4>
           <p>{description}</p>
           <h4>Compétence : </h4>
-          <p>{competence}</p>
+           <p dangerouslySetInnerHTML={{__html: competence}} />
           <a href={projectUrl} target="_blank" rel="noopener noreferrer"> Voir le projet</a>
         </div>
       </div>
