@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/OpenClassroomsProject8/static/css/main.79419cf1.css",
+    "main.js": "/OpenClassroomsProject8/static/js/main.2749e8d9.js",
+    "static/media/pp.jpg": "/OpenClassroomsProject8/static/media/pp.a0208e942cea3932156d.jpg",
+    "static/media/CV.pdf": "/OpenClassroomsProject8/static/media/CV.12c2cad11ab12694c0f9.pdf",
+    "static/media/mongo.png": "/OpenClassroomsProject8/static/media/mongo.6170bacefd8a1f69ca74.png",
+    "static/media/project_management.png": "/OpenClassroomsProject8/static/media/project_management.9926afda780608f91457.png",
+    "static/media/man.png": "/OpenClassroomsProject8/static/media/man.4c5e615eb52a73e7d477.png",
+    "static/media/node.png": "/OpenClassroomsProject8/static/media/node.007e99f68b718e476aba.png",
+    "static/media/skills.png": "/OpenClassroomsProject8/static/media/skills.43efaf56fe37d6cc5ac6.png",
+    "static/media/mail.png": "/OpenClassroomsProject8/static/media/mail.a49e015815e3ac6d2bd3.png",
+    "static/media/figma.png": "/OpenClassroomsProject8/static/media/figma.1475cc523b5f4c537bd9.png",
+    "static/media/js.png": "/OpenClassroomsProject8/static/media/js.78206ba65e01c7d57080.png",
+    "static/media/monvieuxgrimoire.png": "/OpenClassroomsProject8/static/media/monvieuxgrimoire.547cd7ede82c1bc79caf.png",
+    "static/media/css.png": "/OpenClassroomsProject8/static/media/css.4a6549b8c2b4cda8bb88.png",
+    "static/media/react.svg": "/OpenClassroomsProject8/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "index.html": "/OpenClassroomsProject8/index.html",
+    "main.79419cf1.css.map": "/OpenClassroomsProject8/static/css/main.79419cf1.css.map",
+    "main.2749e8d9.js.map": "/OpenClassroomsProject8/static/js/main.2749e8d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79419cf1.css",
+    "static/js/main.2749e8d9.js"
+  ]
+}
