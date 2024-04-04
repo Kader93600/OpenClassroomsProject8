@@ -28,7 +28,7 @@ function Contact() {
         </div>
         <div>
           <input type="email" id="email" name="email" placeholder="Email" required />
-          <input type="tel" id="phone" name="phone" placeholder="Numéro de téléphone" required /> {/* Ajout du champ téléphone */}
+          <input type="tel" id="phone" name="phone" placeholder="Numéro de téléphone" required />
         </div>
         <div>
           <input type="text" id="subject" name="subject" placeholder="Sujet" required />
